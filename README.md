@@ -19,13 +19,5 @@ Check out the deployed version here: [https://geeksfood-quote-page.vercel.app](h
 - CSS Modules
 - Vercel (for deployment)
 
-## 📂 Folder Structure
-```
-    src/ 
-        ├── components/ 
-            ├── QuoteSection.jsx 
-            ├── QuoteCard.jsx 
-            └── QuoteSection.module.css 
-        ├── App.js 
-    └── index.js
+
 ```
